@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    line-height: 2em;
+    text-align: left;
+}
+nav {    
+    margin: 2% 2% 0 2%;    
+    width: 96%;    
+}
+section {    
+    margin:25px auto 50px auto;
+}
+
+footer {
+    clear:both;
+    text-align: center;
+    color: gray;
+    font-size: small;
+    height: 15px;    
+}
+h4 {
+    text-align: center;
+}
